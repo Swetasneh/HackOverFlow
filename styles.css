@@ -1,0 +1,80 @@
+body{
+    background-color: #090326;
+
+}
+
+h1{
+  margin: 5px auto;
+  font-size: 4rem;
+}
+
+.yellow-bar{
+  text-align: center;
+  background-color: orange;
+  color: white;
+  padding:20px 15px 20px;
+}
+.game-bar{
+  background-color: white;
+  text-align: center;
+  padding: 0 25%;
+  font-size: 1.1rem;
+  font-family: "Montserrat-Bold";
+  color: brown;
+}
+a:link, a:visited {
+  background-color: white;
+  color: brown;
+  padding: 7px 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover {
+  background-color: brown;
+  color:white;
+}
+.status{
+  padding: 7px 15px;
+}
+
+.container{
+  padding: 0 7%;
+
+}
+
+.blocks {
+display:block;
+padding:3% 20%;
+margin:auto;
+text-align: center;
+
+}
+.box1{
+   background-color: rgb(0, 191, 255);
+}
+.box2{
+  background-color: rgb(0, 191, 255);
+}
+.box3{
+  background-color: rgb(0, 191, 255);
+}
+.box4{
+   background-color: rgb(0, 191, 255);
+}
+.box5{
+  background-color: rgb(0, 191, 255);
+}
+.box6{
+  background-color: rgb(0, 191, 255);
+}
+.btn {
+  display: inline-block;
+  margin: 10px 15px;
+  height: 120px;
+  width: 120px;
+  border-radius: 20%;
+  padding:0;
+
+}
